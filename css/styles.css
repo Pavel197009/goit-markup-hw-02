@@ -181,8 +181,7 @@ address {
 }
 .third-section-h2 {
     color: var(--dark-color);
-    padding-top: 120px;
-    padding-left: 639px;
+    text-align: center;
 }
 .third-section-list {
     margin-top: 72px;
