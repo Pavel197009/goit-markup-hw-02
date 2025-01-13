@@ -73,7 +73,7 @@ header {
 .first-section {
     background-color: var(--dark-color);
 }
-.first-section-head1 {
+.first-section-h-one {
     color: var(--white-color);
     text-transform: uppercase;
     font-weight: 700;
