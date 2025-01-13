@@ -182,6 +182,7 @@ address {
 .third-section-h2 {
     color: var(--dark-color);
     text-align: center;
+    text-transform: capitalize;
 }
 .third-section-list {
     margin-top: 72px;
@@ -213,6 +214,7 @@ address {
     margin-top: 1px;
     color: var(--dark-color);
     text-align: center;
+    text-transform: capitalize;
 }
 .fourth-section-list {
     width: 1128px;
