@@ -23,17 +23,6 @@ header {
     letter-spacing: 0.02em;
     display: flex;
 }
-h1 {
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: white;
-    width: 496px;
-    padding-top: 188px;
-    padding-left: 472px; 
-}
 p {
     font-weight: 400;
     font-size: 16px;
@@ -128,6 +117,15 @@ address {
 .first-section-h1 {
     color: var(--white-color);
     text-transform: uppercase;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+    width: 496px;
+    padding-top: 188px;
+    padding-left: 472px; 
 }
 .first-section-btn {
     width: 169px;
@@ -137,11 +135,11 @@ address {
     border: var(--primary-brand-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.26);
     border-radius: 4px;
-    font-family: inherit;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.04em;
     color: var(--white-color);
     align-items: center;
     text-align: center;
