@@ -156,7 +156,7 @@ header {
 .fourth-section {
     background-color: var(--white-color);
 }
-.fourth-section-h2 {
+.fourth-section-head2 {
     color: var(--dark-color);
     text-align: center;
     text-transform: capitalize;
@@ -170,15 +170,14 @@ header {
     text-align: left;
 }
 .fourth-section-list-items-first {
-    text-align:left;
+    text-align: left;
     border: 1px solid var(--accent-color);
 }
 .fourth-section-list-items {
-    text-align:left;
+    text-align: left;
     border: 1px solid var(--accent-color);
-    margin-top: 48px;
 }
-.fourth-section-h3 {
+.fourth-section-head3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
