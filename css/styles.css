@@ -34,16 +34,10 @@ header {
     color: var(--primary-brand-color);
 }
 
-.web-logo {
-    color: var(--primary-brand-color);
-}
 .studio-logo {
     color: var(--dark-color);
 }
-.nav {
-}
 .navigate-list {
-    padding-left: 76px;
     list-style-type: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -119,8 +113,6 @@ header {
 }
 .second-section-list {
     list-style-type: none;
-}
-.second-section-list-items {
 }
 .second-section-h3 {
     font-weight: 500;
