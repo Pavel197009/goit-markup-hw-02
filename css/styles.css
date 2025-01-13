@@ -169,10 +169,6 @@ header {
     list-style-type: none;
     text-align: left;
 }
-.fourth-section-list-items-first {
-    text-align: left;
-    border: 1px solid var(--accent-color);
-}
 .fourth-section-list-items {
     text-align: left;
     border: 1px solid var(--accent-color);
