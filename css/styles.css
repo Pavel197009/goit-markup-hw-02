@@ -53,21 +53,18 @@ header {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.navigate-list-items-local {
-    line-height: 1.14;
-    text-decoration: none;
-    color: var(--dark-color);
-}
 .navigate-list-items {
     text-decoration: none;
     color: var(--dark-color);
     padding-left: 40px;
+    font-size: 16px;
+    line-height: 1.5;
 }
 .navigate-list-items:focus {
-    color: var(--primary-brand-color);
+    color: var(--pressed-state-color);
 }
 .navigate-list-items:hover {
-    color: var(--primary-brand-color);
+    color: var(--pressed-state-color);
 }
 address {
     font-style: normal;
