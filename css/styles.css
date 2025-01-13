@@ -29,11 +29,12 @@ header {
     font-family: 'Raleway',sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.166;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
     display: flex;
+    color: var(--primary-brand-color);
 }
 
 .web-logo {
