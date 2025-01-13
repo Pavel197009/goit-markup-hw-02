@@ -124,7 +124,7 @@ header {
 .third-section {
     background-color: var(--light-color);
 }
-.third-section-h2 {
+.third-section-head2 {
     color: var(--dark-color);
     text-align: center;
     text-transform: capitalize;
@@ -139,7 +139,7 @@ header {
 .third-section-list-items {
     background-color: var(--white-color);
 }
-.third-section-h3 {
+.third-section-head3 {
     text-align: center;
     font-weight: 500;
     font-size: 20px;
