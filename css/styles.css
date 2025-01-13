@@ -22,8 +22,6 @@ header {
     letter-spacing: 0.02em;
 }
 .logo {
-    margin-left: 156px;
-    margin-top: 16px;
     font-family: 'Raleway',sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -86,7 +84,6 @@ header {
     color: var(--white-color);
 }
 .first-section-btn {
-    margin-left: 636px;
     background: var(--primary-brand-color);
     border: var(--primary-brand-color);
     font-family: 'Roboto', sans-serif;
@@ -107,8 +104,6 @@ header {
     border: var(--pressed-state-color);
 }
 .second-section {
-    margin-top: 120px;
-    margin-left: 156px;
     background-color: var(--white-color);  
 }
 .second-section-list {
@@ -127,7 +122,6 @@ header {
     letter-spacing: 0.02em;
 }
 .third-section {
-    margin-top: 120px;
     background-color: var(--light-color);
 }
 .third-section-h2 {
@@ -140,12 +134,9 @@ header {
     letter-spacing: 0.02em;
 }
 .third-section-list {
-    margin-top: 72px;
-    margin-left: 108px;
     list-style-type: none;
 }
 .third-section-list-items {
-    margin-left: 24px;
     background-color: var(--white-color);
 }
 .third-section-h3 {
@@ -163,13 +154,9 @@ header {
     letter-spacing: 0.02em;
 }
 .fourth-section {
-    margin-top: 120px;
-    margin-left: 156px;
-    width: 1128px;
     background-color: var(--white-color);
 }
 .fourth-section-h2 {
-    margin-top: 1px;
     color: var(--dark-color);
     text-align: center;
     text-transform: capitalize;
@@ -185,10 +172,8 @@ header {
 .fourth-section-list-items-first {
     text-align:left;
     border: 1px solid var(--accent-color);
-    margin-top: 48px;
 }
 .fourth-section-list-items {
-    margin-left: 20px;
     text-align:left;
     border: 1px solid var(--accent-color);
     margin-top: 48px;
@@ -206,11 +191,9 @@ header {
     letter-spacing: 0.02em;
 }
 footer {
-    margin-top: 120px;
     background-color: var(--dark-color);
 }
 .footer-logo {
-    margin-left: 156px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -225,7 +208,6 @@ footer {
 }
 
 .footer-p {
-    margin-left: 156px;
     color: var(--light-color);
     font-size: 16px;
     line-height: 1.5;
