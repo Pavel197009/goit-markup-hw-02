@@ -29,20 +29,6 @@ p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-h2 {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-}
-h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--dark-color);
-}
-
 .logo {
     margin-left: 156px;
     margin-top: 16px;
@@ -169,6 +155,11 @@ address {
 }
 .second-section-h3 {
     width: 264px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
 }
 .second-section-p {
     width: 264px;
@@ -183,6 +174,10 @@ address {
     color: var(--dark-color);
     text-align: center;
     text-transform: capitalize;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 .third-section-list {
     margin-top: 72px;
@@ -198,6 +193,11 @@ address {
 }
 .third-section-h3 {
     text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
 }
 .third-section-p {
     width: 264px;
@@ -215,6 +215,10 @@ address {
     color: var(--dark-color);
     text-align: center;
     text-transform: capitalize;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 .fourth-section-list {
     width: 1128px;
@@ -235,6 +239,13 @@ address {
     text-align:left;
     border: 1px solid var(--accent-color);
     margin-top: 48px;
+}
+.fourth-section-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
 }
 footer {
     margin-top: 120px;
