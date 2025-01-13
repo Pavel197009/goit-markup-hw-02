@@ -248,7 +248,6 @@ address {
     color: var(--dark-color);
 }
 .fourth-section-p {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -262,14 +261,15 @@ footer {
 .footer-logo {
     margin-left: 156px;
     padding-top: 100px;
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.166;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
     display: flex;
+    color: var(--primary-brand-color);
 }
 .footer-studio-logo {
     color: var(--light-color);
@@ -280,6 +280,9 @@ footer {
     margin-left: 156px;
     width: 264px;
     color: var(--light-color);
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .visually-hidden {
     position: absolute;
